@@ -1,2 +1,2 @@
 # LLNL
-Knowledge Graph Exploration Using Subgraphs
+Knowledge Graph Exploration using Connection Subgraphs
